@@ -20,7 +20,6 @@ This project is a C# console application that leverages the Azure DevOps REST AP
 - Power BI for dashboard creation and visualization.
 
 ## Project Structure
-
 - `ConsoleApp`: Contains the C# console application.
 - `DatabaseScripts`: SQL scripts for creating the database.
 - `PowerBIDashboard`: Power BI file for the analytics dashboard.
